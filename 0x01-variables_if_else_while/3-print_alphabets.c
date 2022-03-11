@@ -5,7 +5,7 @@
 /**
  * main - message goes here
  *
- * the code returns 0 and chars
+ * Return: the code returns 0 and chars (success)
  */
 int main(void)
 {
