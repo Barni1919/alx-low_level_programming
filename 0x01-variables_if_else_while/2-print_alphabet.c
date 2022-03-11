@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* alphabet project */
+/* alphabet project 2 */
 
 
 /**
