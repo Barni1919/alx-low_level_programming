@@ -3,11 +3,10 @@
 #include <stdio.h>
 /* more headers goes there */
 
-/* betty style doc for function main goes there */
+/* main funcion rus the whole program with if else statment */
 int main(void)
 {
 	
-	/* main function */
 	int n;
 
 	srand(time(0));
