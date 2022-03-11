@@ -1,12 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* alphabet project 
- *
- *
- *  main description - prints with putchar 
- */
-int main(void)
+/* alphabet project */
+
+
+/* main description - prints with putchar */
+int main(void)   /* main description */
 {
 	char x;
 
