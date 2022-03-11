@@ -3,10 +3,9 @@
 #include <stdio.h>
 /* more headers goes there */
 
-/* main funcion rus the whole program with if else statment */
+/* main funcion runs the whole program with if else statment */
 int main(void)
 {
-	
 	int n;
 
 	srand(time(0));
