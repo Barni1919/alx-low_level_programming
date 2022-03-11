@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-	puts();
+	puts(void);
 	return(0);
 }
 int puts(void)
