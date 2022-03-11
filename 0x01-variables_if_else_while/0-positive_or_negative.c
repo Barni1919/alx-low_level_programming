@@ -6,6 +6,8 @@
 /* betty style doc for function main goes there */
 int main(void)
 {
+	
+	/* main function */
 	int n;
 
 	srand(time(0));
