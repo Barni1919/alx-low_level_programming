@@ -4,10 +4,10 @@
  */
 int main(void)
 {
-	put();
+	puts();
 	return(0);
 }
-in put()
+int puts()
 {
 	printf("Programming is like building a multilingual puzzle\n");
 }
