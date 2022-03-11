@@ -4,9 +4,9 @@
 /* more headers goes there */
 
 /**
- *  main - funcion runs the whole program with if else statment 
+ * main - funcion runs the whole program with if else statment
  *
- *  Return:Always 0 (success)
+ * Return:Always 0 (success)
  */
 int main(void)
 {
