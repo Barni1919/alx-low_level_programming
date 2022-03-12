@@ -21,7 +21,7 @@ int main(void)
 			{
 				for (a = 0; a <= 9; a++)
 				{
-					if (((z + a) > (x + y) && z >= x ) || x < z)
+					if (((z + a) > (x + y) && z >= x) || x < z)
 					{
 						putchar(x + '0');
 						putchar(y + '0');
@@ -38,7 +38,7 @@ int main(void)
 							putchar(' ');
 						}
 					}
-				}	
+				}
 			}
 		}
 	}
