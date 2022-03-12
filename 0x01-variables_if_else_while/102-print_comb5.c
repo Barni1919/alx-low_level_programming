@@ -28,11 +28,11 @@ int main(void)
 						putchar(' ');
 						putchar(z + '0');
 						putchar(a + '0');
-						if (x + y + z + a == 227 && x == 57)
+					if (x + y + z + a == 227 && x == 57)
 						{
 							break;
 						}
-						else
+					else
 						{
 							putchar(',');
 							putchar(' ');
